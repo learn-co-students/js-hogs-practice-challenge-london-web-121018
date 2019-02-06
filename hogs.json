@@ -1,20 +1,11 @@
 {
   "hogs": [
     {
-      "id": 0,
-      "name": "Mudblood",
-      "specialty": "Mediocre magic",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2,
-      "highest medal achieved": "bronze",
-      "image": "./hog-imgs/mudblood.jpg"
-    },
-    {
       "id": 1,
-      "name": "Porkchop",
-      "specialty": "Making friends",
+      "name": "Porkchoppy",
+      "specialty": "Making friends and stuff",
       "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.6,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1,
       "highest medal achieved": "silver",
       "image": "./hog-imgs/porkchop.jpg"
     },
@@ -22,7 +13,7 @@
       "id": 2,
       "name": "Cherub",
       "specialty": "truffle finder",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 0.7,
       "highest medal achieved": "gold",
       "image": "./hog-imgs/cherub.jpg"
@@ -94,7 +85,7 @@
       "id": 10,
       "name": "Galaxy Note",
       "specialty": "Airport Security",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.9,
       "highest medal achieved": "diamond",
       "image": "./hog-imgs/galaxy_note.jpg"
@@ -103,7 +94,7 @@
       "id": 11,
       "name": "Leggo My Eggo",
       "specialty": "Babysitting",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 3.3,
       "highest medal achieved": "platinum",
       "image": "./hog-imgs/leggo_my_eggo.jpg"
@@ -112,10 +103,19 @@
       "id": 12,
       "name": "Augustus Gloop",
       "specialty": "Vacuum tubes",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Percy",
+      "specialty": "Being delicious",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 0,
+      "highest medal achieved": "Wooden Spoon",
+      "image": "https://www.prospectmagazine.co.uk/content/uploads/2017/10/percy.png",
+      "id": 13
     }
   ]
 }
