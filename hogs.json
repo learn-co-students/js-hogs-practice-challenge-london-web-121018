@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Mudblood",
       "specialty": "Mediocre magic",
-      "greased": false,
+      "greased": true,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2,
       "highest medal achieved": "bronze",
       "image": "./hog-imgs/mudblood.jpg"
@@ -40,7 +40,7 @@
       "id": 4,
       "name": "Trouble",
       "specialty": "Racing",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.7,
       "highest medal achieved": "gold",
       "image": "./hog-imgs/trouble.jpg"
@@ -67,7 +67,7 @@
       "id": 7,
       "name": "TruffleShuffle",
       "specialty": "Finding truffles",
-      "greased": true,
+      "greased": false,
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4,
       "highest medal achieved": "gold",
       "image": "./hog-imgs/truffleshuffle.jpg"
@@ -116,6 +116,15 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Oat",
+      "specialty": "Oats",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "666",
+      "highest medal achieved": "Platinum",
+      "image": "./hog-imgs/brother.jpg"
     }
   ]
 }
